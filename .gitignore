@@ -2,3 +2,18 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .venv/
+venv/
+
+# Original research material is preserved locally, not published.
+/original_resources/
+/CODEX_REPLACEMENT_PROMPT.txt
+
+# Local experiment output and temporary files.
+/runs/
+/outputs/
+/tmp/
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db

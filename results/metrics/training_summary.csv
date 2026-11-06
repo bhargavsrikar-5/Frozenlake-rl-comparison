@@ -1,0 +1,3 @@
+algorithm,environment,map_name,is_slippery,training_episodes,learning_rate,discount_factor,epsilon,reward_definition,mean_training_reward,run_count,seed_recorded,source
+Q-Learning,FrozenLake-v1,8x8,true,1000,0.1,0.99,0.1,"Gymnasium default sparse reward: 1 at goal, 0 otherwise",0.0000,1,false,"Saved Colab output; one stochastic training run"
+Tabular Policy Gradient (REINFORCE),FrozenLake-v1,8x8,true,1000,0.01,0.99,,"Gymnasium default sparse reward: 1 at goal, 0 otherwise",0.0010,1,false,"Saved Colab output; one stochastic training run"
